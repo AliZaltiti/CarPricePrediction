@@ -1,17 +1,22 @@
 # Car Price Prediction Projects
 
-This repository contains my Python projects related to data analysis, graph algorithms, and problem-solving.
+This repository contains my Python projects related to **data analysis**, **graph algorithms**, and **problem-solving**.
+
+---
 
 ## Projects
 
 ### 1. Car Price Prediction
 - **Files:** `CarPrice_Assignment.py`, `CarPrice_Assignment.csv`
-- **Description:** This project predicts car prices using Linear Regression. 
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-- **Tasks:** 
+- **Description:** Predicts car prices using **Linear Regression** based on various car features.
+- **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- **Tasks Performed:**
   - Data preprocessing and encoding categorical variables
-  - Train-test splitting
-  - Model training with Linear Regression
-  - Evaluation using MSE and R² score
-  - Visualization of actual vs predicted prices
+  - Splitting data into training and testing sets
+  - Training a Linear Regression model
+  - Evaluating the model using **Mean Squared Error (MSE)** and **R² Score**
+  - Visualizing **actual vs predicted car prices**
 
+---
+
+> **Note:** This project demonstrates skills in **data cleaning**, **feature engineering**, **model training**, and **data visualization**.
